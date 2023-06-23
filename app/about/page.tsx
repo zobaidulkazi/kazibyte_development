@@ -6,7 +6,7 @@ export default function About() {
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <h1 className='text-5xl'>This About Pages</h1>
 
-      <a href='/' target='_blank' >
+      <a href='/' >
         Home Page
       </a>
       </main>
